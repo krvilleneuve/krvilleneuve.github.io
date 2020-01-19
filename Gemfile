@@ -5,9 +5,6 @@ source "https://rubygems.org"
 # Github Pages version
 gem "github-pages", group: :jekyll_plugins
 
-# Theme
-gem "minima", "~> 2.5"
-
 # Additional plugins
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
